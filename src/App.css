@@ -1,0 +1,114 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app h1 {
+  text-align: center;
+  width: fit-content;
+  margin: 40px auto;
+  padding: 5px 30px;
+  font-size: 3.2rem;
+  border-radius: 10px;
+  border: 6px dashed rgb(168, 27, 233);
+}
+
+.tours {
+  padding: 0 40px;
+}
+
+.tour-info {
+  padding: 10px 10px 20px 10px;
+}
+
+.tour-price {
+  margin-top: 10px;
+  color: rgb(3, 174, 46);
+}
+
+.tour-name {
+  margin: 10px 0px;
+  font-size: 23px;
+  font-weight: 800;
+}
+
+.description {
+  text-align: justify;
+  font-size: 18px;
+  line-height: 1.4rem;
+}
+
+.read-more {
+  cursor: pointer;
+  color: #12b0e8;
+}
+
+.red-btn {
+  font-size: 1.2rem;
+  padding: 10px 50px;
+  border: 2px solid red;
+  background-color: rgba(242, 174, 174, 0.756);
+  border-radius: 10px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: 0.4s;
+}
+
+.red-btn:hover {
+  color: white;
+  background-color: red;
+}
+
+.details-tour {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  max-width: 1500px;
+  margin: 20px auto;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+  width: 30%;
+  height: fit-content;
+  padding: 10px 10px 20px 10px;
+  margin: 0 auto;
+  box-shadow: 0px 4px 16px rgba(17, 17, 26, 0.1), 0px 8px 24px rgba(17, 17, 26, 0.1), 0px 16px 56px rgba(17, 17, 26, 0.1);
+}
+
+.image {
+  width: 100%;
+  border-radius: 2px;
+  object-fit: cover;
+  aspect-ratio: 1/1;
+}
+
+.refresh{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  width: 100vW;
+  height: 100vh;
+}
+
+h2{
+  font-size: 1.8rem;
+}
+
+.white-btn{
+  padding: 10px 60px;
+  cursor: pointer;
+  border-radius: 2px;
+  border: none;
+  font-size: 1.2rem;
+  background-color: rgb(243, 240, 240);
+  transition: 0.5s;
+}
