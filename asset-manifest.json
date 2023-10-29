@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Plan-with-harsh/static/css/main.1d27f208.css",
+    "main.js": "/Plan-with-harsh/static/js/main.7f67e837.js",
+    "index.html": "/Plan-with-harsh/index.html",
+    "main.1d27f208.css.map": "/Plan-with-harsh/static/css/main.1d27f208.css.map",
+    "main.7f67e837.js.map": "/Plan-with-harsh/static/js/main.7f67e837.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d27f208.css",
+    "static/js/main.7f67e837.js"
+  ]
+}
