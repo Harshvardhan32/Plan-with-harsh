@@ -4,10 +4,8 @@ Welcome to the Plan With Harsh, your simple and efficient platform for organizin
 
 ## Visit Plan With Harsh
 
-<a href="https://planwithharsh.netlify.app/"></a>
+<a href="https://planwithharsh.netlify.app/">Plan With Harsh</a>
 
 ## Technologies Used
 
-- **Frontend:** [List of frontend technologies used]
-- **Backend:** [List of backend technologies used]
-- **Database:** [List of database technologies used]
+- **Frontend:** React, Tailwind CSS
